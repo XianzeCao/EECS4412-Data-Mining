@@ -25,3 +25,21 @@ What can we do with graph mining :
 - Find the most influential people in communities 
 - Node classification 
 - Anomaly detection
+
+
+
+## 2 Categories: predictive & descriptive
+
+- Predictive: Discover patterns on previous & current data in order to make predictions on future data Classification Regression 
+
+​	a form of supervised learning, training data labeled with target outputs 
+
+
+
+
+
+
+
+
+
+- Descriptive: Discover knowledge that characterizes general properties of data Clustering Concept characterization / Summarization Association analysis (frequent itemsets, association rules) Sequential pattern mining
