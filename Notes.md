@@ -30,9 +30,52 @@ What can we do with graph mining :
 
 ## 2 Categories: predictive & descriptive
 
-- Predictive: Discover patterns on previous & current data in order to make predictions on future data Classification Regression 
+## Predictive:
 
-​	a form of supervised learning, training data labeled with target outputs 
+ Discover patterns on previous & current data in order to make predictions on future data Classification Regression a form of supervised learning, training data labeled with target outputs 
+
+Types of predictive tasks / supervised learning :
+
+1. Classification
+2.  Regression 
+3. Structured prediction
+
+#### Classification 
+
+Target variable is discrete
+
+Its values are considered as classes 
+
+Goal: 
+
+- Learn a module from the labeled training data 
+- Learned model is used to classify new examples
+
+#### Regression 
+
+Target var is numeric  e.g. price , exam score
+
+Linear vs non-linear regression : whether relationship between independent and dependent vars are linear or not 
+
+Simple vs multiple regression: difference is the number of independent vars 
+
+#### Structured prediction 
+
+Outputs are structured objects 
+
+e.g. machine translate (English -> French )
+
+e.g. named entity recognition 
+
+## Descriptive 
+
+
+
+
+
+
+
+​	
 
 
 
@@ -42,4 +85,14 @@ What can we do with graph mining :
 
 
 
-- Descriptive: Discover knowledge that characterizes general properties of data Clustering Concept characterization / Summarization Association analysis (frequent itemsets, association rules) Sequential pattern mining
+
+
+
+
+
+
+
+
+### Descriptive: 
+
+Discover knowledge that characterizes general properties of data Clustering Concept characterization / Summarization Association analysis (frequent itemsets, association rules) Sequential pattern mining
