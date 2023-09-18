@@ -69,6 +69,21 @@ e.g. named entity recognition
 
 ## Descriptive 
 
+Training data does not have output or target vars ,  a form of unsupervised learning 
+
+Goal is to 1. Extract hidden patterns or relationships in data     2. Discover knowledge that characterizes general properties of data 
+
+Typical descriptive tasks : 
+
+- Clustering 
+- Concept characterization / summarization 
+- Association analysis
+- Sequential pattern mining 
+
+
+
+
+
 
 
 
