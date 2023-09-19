@@ -6,9 +6,7 @@ Popular application : basket data analysis
 
 ### Definition 
 
-Is of the form         X 		->		 Y 		[support , confidence]
-
- 			antecedent 		consequent	
+Is of the form         X (antecedent ) ->		 Y (consequent)		[support , confidence]
 
 Support:  probability that a transaction (record) contains X and Y    support( X-> Y) = P(X U Y)
 
