@@ -90,20 +90,6 @@ Typical descriptive tasks :
 
 
 
-​	
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
